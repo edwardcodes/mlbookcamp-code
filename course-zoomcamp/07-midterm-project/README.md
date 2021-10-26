@@ -43,6 +43,22 @@ For this project, you repository/folder should contain the following:
 * `Dockerfile` for running the service
 
 
+## Evaluation Criteria
+
+The project will be evaluated using these criteria:
+
+* Problem description
+* EDA
+* Model training
+* Exporting notebook to script
+* Model deployment
+* Dependency and environment management
+* Containerization
+* Cloud deployment
+
+[Detailed criteria](https://docs.google.com/spreadsheets/d/e/2PACX-1vQo-cOOGMA-ddbp6FgxusNBjS_HOmWaOYtvO7z-wk_TcCnPOBAza9s8Uj_eqfKGadoU0741cCGd95qI/pubhtml)
+
+
 ## Submit the results
 
 Submit your results here: https://forms.gle/5JLFUwwXaUDssVKt7
@@ -63,3 +79,18 @@ The deadline for submitting is 1 November 2021, 17:00 CET (Monday). After that, 
 **Q**: Can multiple people use the same dataset?
 
 > Yes, there's no way to control it or enforce. So it's totally okay if you and somebody else use the same dataset. 
+
+
+## Office Hours 
+
+We discussed the project in detail in two office hours sessions
+
+### Office Hours Week #7 
+
+[Video](https://www.youtube.com/watch?v=wWBm6MHu5u8)
+
+### Office Hours Week #8
+
+[Video](https://www.youtube.com/watch?v=3bo7I9LaN7o)
+
+[Notebook](week8-office-hours.ipynb)
