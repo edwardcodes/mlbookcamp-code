@@ -36,7 +36,7 @@ The code and dataset are available at this [link](https://github.com/alexeygrigo
 </table>
 
 
-## Nagivation
+## Navigation
 
 * [Machine Learning Zoomcamp course](../)
 * [Session 2: Machine Learning for Regression](./)
